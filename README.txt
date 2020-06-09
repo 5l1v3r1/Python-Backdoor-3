@@ -8,11 +8,11 @@ Operating System: Windows
 - Shutdown Computer
 - Restart Computer
 - Lock Computer
-- Write Code on target machine
 - Activate Webcam
 - Screenshot
 - Get RAT Directory
 - View Files
+- Check Connection
 - Append Connection (Keep it running while not connected)
 - Close Connection (deletes program and any other logs)
 
