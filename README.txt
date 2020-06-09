@@ -15,5 +15,3 @@ Operating System: Windows
 - Check Connection
 - Append Connection (Keeps program running while not connected)
 - Close Connection (terminates connection and clears logs)
-
-This program when ran automatically saves to targets startup folder
