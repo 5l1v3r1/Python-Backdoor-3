@@ -13,7 +13,7 @@ Operating System: Windows
 - Get RAT Directory
 - View Files
 - Check Connection
-- Append Connection (Keep it running while not connected)
-- Close Connection (deletes program and any other logs)
+- Append Connection (Keeps program running while not connected)
+- Close Connection (terminates connection and clears logs)
 
 This program when ran automatically saves to targets startup folder
